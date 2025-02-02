@@ -1,0 +1,23 @@
+[project]
+authors = ["pyramidheadshark <pyramidheadshark@gmail.com>"]
+channels = ["conda-forge"]
+name = "customer-churn-interactive-research"
+platforms = ["win-64"]
+version = "0.1.0"
+
+[tasks]
+
+[dependencies]
+python = "3.11.*"
+
+[pypi-dependencies]
+streamlit = ">=1.44.0, <2"
+dotenv = ">=0.9.9, <0.10"
+seaborn = ">=0.13.2, <0.14"
+shap = ">=0.47.1, <0.48"
+lightgbm = ">=4.6.0, <5"
+plotly = ">=6.0.1, <7"
+scikit-learn = ">=1.6.1, <2"
+pandas = ">=2.2.3, <3"
+optuna = ">=4.2.1, <5"
+optuna-dashboard = ">=0.18.0, <0.19"
