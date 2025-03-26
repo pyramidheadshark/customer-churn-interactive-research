@@ -1,4 +1,4 @@
-# 📊 Анализ Оттока Клиентов Банка с Интерактивным Дашбордом
+# 📊 Анализ оттока клиентов банка с интерактивным дeшбордом
 
 [![Python](https://img.shields.io/badge/Python-3.9%2B-blue.svg)](https://www.python.org/)
 [![Streamlit](https://img.shields.io/badge/Streamlit-1.25%2B-orange.svg)](https://streamlit.io/)
