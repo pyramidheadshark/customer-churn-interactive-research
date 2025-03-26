@@ -8,7 +8,7 @@
 
 🚀 **Посмотреть Интерактивное Демо:**
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://customer-churn-interactive-research.streamlit.app/)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://customer-churn-interactive.streamlit.app/)
 
 *(Нажмите на бейдж выше, чтобы перейти к живому приложению Streamlit)*
 
