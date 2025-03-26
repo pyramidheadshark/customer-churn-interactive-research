@@ -11,7 +11,7 @@ import os
 
 st.set_page_config(layout="wide", page_title="Дешборд Анализа Оттока")
 
-BASE_DIR = '..'
+BASE_DIR = '.'
 DATA_DIR = os.path.join(BASE_DIR, 'data', 'processed')
 ORIGINAL_DATA_PATH = os.path.join(BASE_DIR, 'data', 'raw', 'Churn_Modelling.csv')
 MODEL_PATH = os.path.join(BASE_DIR, 'models', 'lgbm_churn_model.joblib')
